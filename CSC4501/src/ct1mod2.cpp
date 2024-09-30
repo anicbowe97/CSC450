@@ -3,7 +3,7 @@
 
 using namespace std;
 
-int main() {
+int mainte() {
 	double myMoney = 1000.50; //this should be printed out
 
 	//Standard Output Statement
