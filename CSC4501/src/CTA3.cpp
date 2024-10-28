@@ -9,7 +9,7 @@
 
 using namespace std;
 
-int main() {
+int main2() {
 	int val1, val2, val3;
 
 	//Prompt user to enter three integer values
